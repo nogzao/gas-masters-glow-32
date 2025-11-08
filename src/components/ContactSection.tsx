@@ -102,9 +102,9 @@ const ContactSection = () => {
                   <Mail size={24} className="text-gas-orange" />
                 </div>
                 <div>
-                  <h4 className="text-lg font-bold text-gray-800 mb-1">Email</h4>
-                  <a href="mailto:contato@gasmasters.com.br" className="text-gray-600 hover:text-gas-orange transition-colors">
-                    contato@gasmasters.com.br
+                  <h4 className="text-lg font-bold text-gray-800 mb-1">Contato</h4>
+                  <a className="text-gray-600 hover:text-gas-orange transition-colors">
+                    (21) 997012-8342
                   </a>
                 </div>
               </div>  
