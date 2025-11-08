@@ -30,18 +30,25 @@ const Footer = () => {
             </p>
             <div className="flex gap-4">
               <a 
-                href="#" 
+                href="https://www.facebook.com/gasmastersaquecedores/" 
                 className="bg-gray-100 hover:bg-gas-orange/20 transition-colors p-2 rounded-full"
                 aria-label="Facebook"
               >
                 <Facebook size={20} className="text-gas-dark" />
               </a>
               <a 
-                href="#" 
+                href="https://www.instagram.com/gasmasters_/" 
                 className="bg-gray-100 hover:bg-gas-orange/20 transition-colors p-2 rounded-full"
                 aria-label="Instagram"
               >
                 <Instagram size={20} className="text-gas-dark" />
+              </a>
+              <a 
+                href="https://www.youtube.com/@gasmastersassistenciatecni6641" 
+                className="bg-gray-100 hover:bg-gas-orange/20 transition-colors p-2 rounded-full"
+                aria-label="Youtube"
+              >
+                <Youtube size={20} className="text-gas-dark" />
               </a>
             </div>
           </div>
