@@ -99,7 +99,7 @@ const ContactSection = () => {
 
               <div className="flex items-start gap-4 animate-on-scroll">
                 <div className="bg-gas-orange/10 p-3 rounded-full">
-                  <Mail size={24} className="text-gas-orange" />
+                  <Phone size={24} className="text-gas-orange" />
                 </div>
                 <div>
                   <h4 className="text-lg font-bold text-gray-800 mb-1">Contato</h4>
