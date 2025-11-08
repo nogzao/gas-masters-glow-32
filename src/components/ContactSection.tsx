@@ -96,6 +96,18 @@ const ContactSection = () => {
                   </a>
                 </div>
               </div>
+
+              <div className="flex items-start gap-4 animate-on-scroll">
+                <div className="bg-gas-orange/10 p-3 rounded-full">
+                  <Mail size={24} className="text-gas-orange" />
+                </div>
+                <div>
+                  <h4 className="text-lg font-bold text-gray-800 mb-1">Email</h4>
+                  <a href="mailto:contato@gasmasters.com.br" className="text-gray-600 hover:text-gas-orange transition-colors">
+                    contato@gasmasters.com.br
+                  </a>
+                </div>
+              </div>  
               
               <div className="flex items-start gap-4 animate-on-scroll">
                 <div className="bg-gas-orange/10 p-3 rounded-full">
