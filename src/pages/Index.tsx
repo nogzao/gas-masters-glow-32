@@ -33,11 +33,11 @@ const Index = () => {
     <>
       <Helmet>
         <title>Gás Masters | Instalação e Manutenção</title>
-        <meta name="description" content="Soluções completas em instalações e reparos para sua casa ou negócio. Especialistas em aquecedores a gás, máquinas de lavar e muito mais." />
-        <link rel="canonical" href="https://www.meudominio.com/" />
+        <meta name="description" content="Assistência técnica especializada em instalação, manutenção e conserto de aquecedores a gás. Especialistas Rinnai, Lorenzetti, Bosch e outras marcas líderes do mercado no Rio de Janeiro." />
+        <link rel="canonical" href="https://www.gasmasters.com.br/" />
         <meta property="og:title" content="Gás Masters | Instalação e Manutenção" />
-        <meta property="og:description" content="Soluções completas em instalações e reparos para sua casa ou negócio. Atendimento 24h com técnicos certificados." />
-        <meta property="og:url" content="https://www.meudominio.com/" />
+        <meta property="og:description" content="Assistência técnica especializada em instalação, manutenção e conserto de aquecedores a gás. Especialistas Rinnai, Lorenzetti, Bosch e outras marcas líderes do mercado no Rio de Janeiro." />
+        <meta property="og:url" content="https://www.gasmasters.com.br/" />
         <meta property="og:type" content="website" />
       </Helmet>
       
