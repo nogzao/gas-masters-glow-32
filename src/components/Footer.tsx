@@ -43,13 +43,6 @@ const Footer = () => {
               >
                 <Instagram size={20} className="text-gas-dark" />
               </a>
-              <a 
-                href="https://www.youtube.com/@gasmastersassistenciatecni6641" 
-                className="bg-gray-100 hover:bg-gas-orange/20 transition-colors p-2 rounded-full"
-                aria-label="Youtube"
-              >
-                <Youtube size={20} className="text-gas-dark" />
-              </a>
             </div>
           </div>
           
